@@ -1,7 +1,9 @@
+
 .container {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-bottom: 10px;
   }
   
 .brandlogo {
@@ -10,18 +12,19 @@
     height: 150px;
     width: 150px;
   }
-
-.parag4 {
+  
+h2 {
+    padding-left: 30px;
+    padding-bottom: 15px;
+    padding-top: 30px;
     text-align: center;
-    padding-left: 275px;
-    padding-right: 275px;
-    font-size: 20px;
-  }
+}
 
-h1 {
-    padding: 50px;
-    text-align: center;
-    font-style: oblique;
-    padding-top: 100px;
+.img2 {
+    align-items: center;
+    justify-content: center;
+}
 
+.btn {
+    background-color: black;
 }
