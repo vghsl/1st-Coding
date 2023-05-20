@@ -1,27 +1,30 @@
 .container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-.brandlogo {
-    align-items: center;
-    margin-right: 10px;
-    height: 150px;
-    width: 150px;
-  }
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 50px;
+}
 
+.brandlogo {
+  align-items: center;
+  margin-right: 10px;
+  height: 150px;
+  width: 150px;
+}
 .parag4 {
-    text-align: center;
-    padding-left: 275px;
-    padding-right: 275px;
-    font-size: 20px;
-  }
+  text-align: center;
+  padding-left: 275px;
+  padding-right: 275px;
+  font-size: 20px;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}
 
 h1 {
-    padding: 50px;
-    text-align: center;
-    font-style: oblique;
-    padding-top: 100px;
+  padding: 50px;
+  text-align: center;
+  font-style: oblique;
+  font-style: initial;
+  padding-top: 80px;
 
 }

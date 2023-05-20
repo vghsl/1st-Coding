@@ -1,20 +1,19 @@
 .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 50vh;
-  }
-  
-.img {
-    max-width: 200%;
-    max-height: 200%;
-    width: 700px;
-    height: auto;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+}
 
+.img {
+  max-width: 200%;
+  max-height: 200%;
+  width: 400px;
+  height: auto;
+}
 .container2 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
 
 }
